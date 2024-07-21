@@ -1,1 +1,1 @@
-# kalkulator
+Kalkulator sederhana, jangan dihujat
